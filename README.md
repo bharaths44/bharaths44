@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=bharaths44&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharaths44&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharaths44&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 
