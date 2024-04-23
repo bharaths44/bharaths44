@@ -11,10 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharaths44&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=bharaths44&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
